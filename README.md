@@ -32,7 +32,7 @@ mkdir NAICS
 
 cd NAICS
 
-git clone https://github.com/usmanasif/avamia-code-challenge.git
+git clone https://github.com/dcodewizard/avamia-code-challenge.git
 
 cd avamia-code-challenge
 ```
